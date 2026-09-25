@@ -2,10 +2,10 @@
 
 ---
 
-# 🚀 NeighbourLink – AI-Powered Neighbourhood Service Marketplace
+#  NeighbourHUB– AI-Powered Neighbourhood Service Marketplace
 
 <p align="center">
-  <b>⚡ Smart • Local • Reliable</b><br/>
+  <b> Smart • Local • Reliable</b><br/>
   <b>Team Alpha Coders</b>
 </p>
 
@@ -13,9 +13,9 @@
 
 ## 🌐 Live Demo
 
-🚀 Experience NeighbourLink in action:
+Experience NeighbourLink in action:
 
-👉 **https://neighbourhub-1.onrender.com/**
+**https://neighbourhub-1.onrender.com/**
 
 ---
 
@@ -40,7 +40,7 @@ Our platform aims to **digitize local services**, making them accessible, reliab
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Neighbourhood Service Marketplace - Build a full-stack platform connecting **local service providers** with customers.
 
@@ -59,7 +59,7 @@ NeighbourLink provides:
 
 ## 🚧 Project Status
 
-🚀 Actively being built during **Kalpathon Hackathon**
+Actively being built during **Kalpathon Hackathon**
 
 | Module               | Status |
 | -------------------- | ------ |
@@ -167,7 +167,7 @@ RAZORPAY_KEY_SECRET=your_secret
 
 ## 🔗 Repository
 
-👉 https://github.com/Ujjwal15-coder/Alpha-Coders_Ujjwal-Srivastava
+https://github.com/Ujjwal15-coder/Alpha-Coders_Ujjwal-Srivastava
 
 ---
 
@@ -177,4 +177,4 @@ RAZORPAY_KEY_SECRET=your_secret
 
 💡 Empowering local communities with AI-driven service discovery
 
-🚀 *Team Alpha Coders is ready to deliver impact!*
+*Team Alpha Coders is ready to deliver impact!*
